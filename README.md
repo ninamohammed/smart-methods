@@ -1,18 +1,22 @@
 # smart-methods
-Speech to text convert and ESP32 operation steps
+Speech to text convert and ESP32 operation steps:
 
 Converting speech to text using web languages
 Html, CSS, Javascript plus google cloud API.
 
-Source
+Source\
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
+
 https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
+
 https://youtu.be/kagZyM0wzJk
 
 
 ESP32 operation steps:
 
-Source
+Source\
 https://wokwi.com/
+
 https://youtu.be/NjEOZyIyukI
+
 https://youtu.be/Z5PbDPpkNwU
