@@ -2,7 +2,7 @@
 Speech to text convert and ESP32 operation steps:
 
 Converting speech to text using web languages
-Html, CSS, Javascript plus google cloud API.
+Html, Javascript plus google cloud API.
 
 Source\
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
